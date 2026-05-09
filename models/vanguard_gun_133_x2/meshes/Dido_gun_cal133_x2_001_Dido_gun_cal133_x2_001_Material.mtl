@@ -1,0 +1,12 @@
+# Blender 5.1.0 MTL File: 'builtin_materials.blend'
+# www.blender.org
+
+newmtl steel_4
+Ns 399.999969
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -s 5 5 0 C:/steel_4.png
